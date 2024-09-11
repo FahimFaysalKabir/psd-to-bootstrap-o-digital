@@ -3,6 +3,15 @@
   height:870px;
  
   background-image:url("../hero.jpg");
+  position: absolute;
 /*  background-color:red;*/
 
+}
+.menu{
+  width:80%;
+  height:80px;
+  background-color: #fff;
+  margin-top:50px;
+  margin-left:100px;
+  border-radius:10px;
 }
